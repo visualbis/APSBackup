@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"vbx_current.components"}],"uuid":"036bb1fd74f645a997432af690111c66","collectionName":"components"}

@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"vbx_current.propertybank"}],"uuid":"c9c3a5fa51b4412fa35a94d8ffc3df47","collectionName":"propertybank"}
